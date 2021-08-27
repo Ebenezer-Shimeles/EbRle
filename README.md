@@ -1,2 +1,3 @@
 # EbRle
-A simple rle text file compressor
+
+A simple Run Length Encoding Algorithm Compressor!
